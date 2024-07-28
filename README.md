@@ -1,6 +1,6 @@
-# RAP64
+# RAProject64
 
-RAP64 is a fork of Project64, a free and open-source emulator for the Nintendo 64 and Nintendo 64 Disk Drive written in C++ currently only for Windows (planned support for other platforms in the future).
+RAProject64 is a fork of Project64, a free and open-source emulator for the Nintendo 64 and Nintendo 64 Disk Drive written in C++ currently only for Windows (planned support for other platforms in the future).
 
 ## Features
 
