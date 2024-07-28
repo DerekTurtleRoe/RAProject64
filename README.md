@@ -14,7 +14,7 @@ RAP64 is a fork of Project64, a free and open-source emulator for the Nintendo 6
 
 ## Installation
 
-Installer for the latest stable releases are available [here](hhttps://retroachievements.org/download.php#rap64).
+Installer for the latest stable releases are available [here](https://retroachievements.org/download.php#rap64).
 
 ## Minimum requirements
 
